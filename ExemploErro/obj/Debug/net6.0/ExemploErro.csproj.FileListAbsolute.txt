@@ -1,0 +1,15 @@
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.csproj.AssemblyReference.cache
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.AssemblyInfoInputs.cache
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.AssemblyInfo.cs
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.csproj.CoreCompileInputs.cache
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ExemploErro.exe
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ExemploErro.deps.json
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ExemploErro.runtimeconfig.json
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ExemploErro.dll
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ref\ExemploErro.dll
+C:\DIO\POO\ExemploErro\bin\Debug\net6.0\ExemploErro.pdb
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.dll
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ref\ExemploErro.dll
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.pdb
+C:\DIO\POO\ExemploErro\obj\Debug\net6.0\ExemploErro.genruntimeconfig.cache

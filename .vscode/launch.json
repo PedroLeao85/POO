@@ -1,0 +1,37 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "ExemploErro",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-erro",
+            "program": "${workspaceFolder}/ExemploErro/bin/Debug/net6.0/ExemploErro.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ExemploErro",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false
+        },
+        {
+            "name": "ExemploPoo",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-poo",
+            "program": "${workspaceFolder}/ExemploPoo/bin/Debug/net6.0/ExemploPoo.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ExemploPoo",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
