@@ -10,6 +10,8 @@ namespace ExemploPoo.Models
 
         public string Documento { get; set; }
 
+        public string Endereco {get; set; }
+
         public virtual void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos .");
